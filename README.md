@@ -1,10 +1,20 @@
 <img src="https://c8.alamy.com/comp/2R4NW5C/3d-cartoon-woman-sitting-on-cloud-and-using-laptop-illustration-isolated-on-white-background-2R4NW5C.jpg" alt="azure" width="200" height="200"/>
 <h1 align="center">
   Hi 👋, I'm Shrishobana</h1>
-<h3 align="center">A passionate Cloud Architect</h3>
-
+<h3 align="center">I am extremely passionate about cloud computing and architecture. I have a strong desire to design scalable, secure, and efficient cloud solutions. I enjoy working with cutting-edge technologies and leveraging the power of the cloud to drive innovation and solve complex business challenges.
+</h3>
+## Learning Goals
+my primary learning goals are:
 
 - 🌱 I’m currently learning **Azure, Java, python**
+- - Master the fundamental concepts and principles of cloud computing, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
+- Gain expertise in leading cloud platforms such as Microsoft Azure & Amazon Web Services (AWS).
+- Understand different cloud deployment models, such as public, private, and hybrid clouds, and their use cases.
+- Acquire knowledge of cloud security best practices, including identity and access management, encryption, and data protection.
+- Learn about cloud architecture patterns, scalability, fault tolerance, and high availability to design resilient and efficient cloud solutions.
+- Explore containerization technologies like Docker and container orchestration platforms such as Kubernetes for deploying and managing cloud applications.
+- Develop proficiency in cloud automation and infrastructure-as-code tools like Terraform and Ansible.
+- Stay updated with the latest trends and advancements in cloud technologies to continually enhance my skills.
 
 - 💬 Ask me about **Azure**
 
