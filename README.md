@@ -1,4 +1,4 @@
-<img src="https://c8.alamy.com/comp/2R4NW5C/3d-cartoon-woman-sitting-on-cloud-and-using-laptop-illustration-isolated-on-white-background-2R4NW5C.jpg" alt="azure" width="200" height="200"/>
+<img src="https://img.freepik.com/premium-photo/woman-sits-purple-cloud-with-laptop-her-hands_561855-6657.jpg" alt="azure" width="500" height="400"/>
 <h1 align="center">
   Hi 👋, I'm Shrishobana</h1>
 <h3 align="center">I am extremely passionate about cloud computing and architecture. I have a strong desire to design scalable, secure, and efficient cloud solutions. I enjoy to work with cutting-edge technologies and leveraging the power of the cloud to drive innovation and solve complex business challenges.
